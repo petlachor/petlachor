@@ -1,3 +1,4 @@
+<sub>I just started being human.</sub>
 - 👋 Hi, I’m @Petla-reboot
 - 👀 I’m interested in Various
 - 🌱 I’m currently learning Python
