@@ -1,5 +1,5 @@
 <sub>I just became human.</sub>
-- 👋 Hi, I’m @petlachor
+- 👋 Hi, I’m petla
 - 👀 I’m interested in Various
 - 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate on anyone now
