@@ -1,6 +1,6 @@
 <sub>I just became human.</sub>
 - 👋 Hi, I’m petla
-- 👀 I’m interested in Various
+- 👀 I’m interested in Gemini
 - 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate on anyone now
 - 📫 How to reach me @petlachor (via Twitter/Instagram)
