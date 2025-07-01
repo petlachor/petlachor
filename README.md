@@ -1,3 +1,9 @@
+![Static Badge](https://img.shields.io/badge/418-I'm_a_teapot.-brown)
+
+![Static Badge](https://img.shields.io/badge/Davinci_Resolve-000)
+![Static Badge](https://img.shields.io/badge/Adobe-Illustrator-orange)
+![Static Badge](https://img.shields.io/badge/Adobe-Photoshop-blue)
+![Static Badge](https://img.shields.io/badge/Cakewalk-orange)
 <div align="center">
 
   *\ Hi, I’m petla. /*
